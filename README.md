@@ -21,7 +21,6 @@ Please download the following packages:
 * "web-vitals": "^2.1.4",
 * "@fontsource/roboto": "^4.4.5",
 * "react-bootstrap": "^1.6.1",
-* "avataaars": "^1.2.2",
 * "bootstrap": "^4.6.0",
 * "emailjs-com": "^3.2.0"
 
@@ -36,7 +35,6 @@ jatin1211: https://github.com/jatin1211
 * React.js
 * JSX
 * Javascript
-* Avataars
 * Bootstrap
 
 
