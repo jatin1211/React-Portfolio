@@ -55,7 +55,7 @@ const works = [
   {
     name: "Tech Blog",
     repo: `${githubRepo}Tech-blog`,
-    url: `https://arcane-gorge-43584.herokuapp.com/`,
+    //url: `https://arcane-gorge-43584.herokuapp.com/`,
     screenshot: pS,
     tech: [
       { name: "NodeJS", variant: "", bg: "lightGreen", icon: icon.nodeIcon },
@@ -69,7 +69,7 @@ const works = [
   {
     name: "Habitual Habits",
     repo: `https://github.com/jatin1211/Habitual-Habits`,
-    url: `https://github.com/jatin1211/Habitual-Habits`,
+    url: `https://vast-beach-17756.herokuapp.com/view-blogs`,
     screenshot: eT,
     tech: [
       { name: "Express-Hbs", variant: "light", bg: "", icon: icon.handleIcon },
