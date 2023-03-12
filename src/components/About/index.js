@@ -12,8 +12,17 @@ export default function About() {
                     </Col>
                     {/* CONTENT */}
                     <Col xs={{ span: 10, order: 3 }} className='mt-5'>
-                        <p className="lead">Full Stack Web Developer with proven experience as a maintenance engineer. Skills in HTML, CSS, JavaScript, React.js, RWD, and agile development. Passionate about solving problems and providing meaningful web applications with a mobile-first approach that improve the lives of those around me.
-                         <br></br>Email: <a href = 'sainijatin247@gmail.com'>sainijatin247@gmail.com</a>
+                        <p className="lead">I am a software developer with a passion for creating high-quality software solutions. I'm proficient in HTML, CSS, JavaScript, jQuery, Python, Bootstrap, Tailwind, JSON, AJAX, REST API, Handlebars, React.js, Node.js, Express, MySQL, MongoDB, User authenctication. I also have basic knowledge of AWS development.
+Throughout my academic and professional experiences, I have gained a strong understanding of software development best practices, 
+including agile methodologies and version control with Git. I have also worked on various projects, including a stocks dashboard application for 
+managing stocks baskets with social interaction and a habit tracker app for tracking exercise routines and blog content.<p>
+
+</p>
+
+I am currently seeking opportunities to work as a full-time, part-time, contract jobs . I am eager 
+to apply my skills and knowledge to contribute to innovative and challenging projects. Please feel free to contact me to discuss 
+potential collaborations or opportunities.
+                         <br></br>Email: <a href = 'mailto:sainijatin247@gmail.com'>sainijatin247@gmail.com</a>
                         </p>
                     </Col>
                     {/* IMAGE/AVATAR */}
