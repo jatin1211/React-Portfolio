@@ -139,10 +139,10 @@ const Contact = () => {
     setMessage(true);
     emailjs
       .sendForm(
-        'service_0f52h6i',
+        'service_ked5c3h',
         'contact_form',
         formRef.current,
-        'xQhUf-Qc56yjDcso_'
+        "ozMT4X99XvrSn4XPW"
       )
       .then(
         (result) => {
@@ -157,19 +157,19 @@ const Contact = () => {
   };
   return (
     <section id="contact">
-      <h5>Get In Touch</h5>
+      {/* <h5>Get In Touch</h5>
       <h5>
         I do receive your messages and will respond asap if the valid email is
         provided :)
-      </h5>
+      </h5> */}
       <h2>Contact Me</h2>
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>sharmatutor14@gmail.com</h5>
-            <a href="mailto:sharmatutor14@gmail.com">Send a message</a>
+            <h5>sainijatin247@gmail.com</h5>
+            <a class = 'shortcut' href="mailto:sainijatin247@gmail.com">Send a message</a>
           </article>
         </div>
         <form ref={formRef} onSubmit={handleSubmit}>
